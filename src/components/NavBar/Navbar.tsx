@@ -129,7 +129,7 @@ export default function Navbar() {
                       />
                       <div className="p-3">
                         <h3 className="font-bold text-black mb-2">
-                          We've just released an update!
+                          We&apos;ve just released an update!
                         </h3>
                         <p className="text-sm text-gray-600">
                           Check out the all new dashboard view. Pages now load
